@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Tabernus communis articulus.",
+      "views": 56
+    },
+    {
+      "id": "2",
+      "title": "Commodi virtus aggero amor acquiro reprehenderit theologus truculenter.",
+      "views": 76
+    },
+    {
+      "id": "kR2jeukl0vY",
+      "title": "Labore deporto maxime.",
+      "views": 83
+    },
+    {
+      "id": "Zp9CKFbfB58",
+      "title": "Cubitum tantum undique capto harum statua concedo.",
+      "views": 90
+    },
+    {
+      "title": "Post criado para teste",
+      "views": 0,
+      "id": "3aVsRZFJZkc"
+    },
+    {
+      "title": "Post criado para teste",
+      "views": 0,
+      "id": "gDz_sibCvAA"
+    },
+    {
+      "title": "Post criado para teste",
+      "views": 0,
+      "id": "OL43LnSdMa4"
+    },
+    {
+      "title": "Post criado para teste",
+      "views": 0,
+      "id": "SJihMHK4EjI"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
