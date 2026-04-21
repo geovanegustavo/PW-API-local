@@ -34,8 +34,8 @@ test.describe ('Atualiza dados no JSON', async () => {
 
     test('Deve criar, atualizar e depois deletar o post', async ( { request } ) => {
 
-        let createdPost;   // declara antes de usar
-        let updatedPost;   // idem
+        let createdPost;
+        let updatedPost;
         
         await test.step('Cria post temporário', async () => {
             const createResponse = await request.post('http://localhost:3000/posts', {
